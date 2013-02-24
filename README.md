@@ -1,7 +1,7 @@
 portfolio
 =========
 
-339 project
+EECS339 - Intro to Databases project.
 
 Live preview [here] [1].
 
